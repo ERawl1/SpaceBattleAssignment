@@ -318,7 +318,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/Scripts/AIScript.cs"
+"Assets/Scripts/AIMovement.cs"
+"Assets/Scripts/CameraScript.cs"
+"Assets/Scripts/LongswordPath.cs"
+"Assets/Scripts/UNSCWaypoints.cs"
+"Assets/Scripts/WaypointManager.cs"
+"Assets/SpaceSkies Free/Demo/Scripts/LookCamera.cs"
+"Assets/SpaceSkies Free/Demo/Scripts/SkyboxChanger.cs"
 -langversion:8.0
 
 /deterministic
