@@ -30,3 +30,7 @@ For my video, I want to create a video reminiscent of the cutscenes and gameplay
 ## References:
 - https://www.thingiverse.com/greentearice/designs
 - https://www.thingiverse.com/aelioszero/designs
+- https://www.thingiverse.com/bac0nbitz/designs
+- https://www.thingiverse.com/basbr123/designs
+- https://www.thingiverse.com/akatsukilover/designs
+- https://www.thingiverse.com/anthalas9/designs
