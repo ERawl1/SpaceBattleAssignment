@@ -48,7 +48,8 @@ UNSC Panama and UNSC Armidale
 ![Panama,Armidale](https://user-images.githubusercontent.com/74061055/166666922-59e3660a-bf73-4a71-9ef6-530f2901bf82.PNG)
 Banshee, Pelican and Longsword
 ![Banshee,Pelican,Longsword](https://user-images.githubusercontent.com/74061055/166666961-5718af4b-7acf-45b1-b223-bab2f853aa58.PNG)
-
+UNSC Sabre
+![Sabre](https://user-images.githubusercontent.com/74061055/166667416-15c256d4-9387-405c-bab0-5fc80dca3485.PNG)
 
 # Classes:
 - AIMovement: Adapted from https://www.youtube.com/channel/UCRURfBp5ZjqE3RBeHL4MGew
