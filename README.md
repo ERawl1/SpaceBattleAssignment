@@ -27,10 +27,21 @@ A space battle based off of "The Long Night of Solace" from Halo: Reach. I hope 
 - Skybox added
 - Music added to scene
 
+# Issues facing the project:
+I had originally planned to add a lot more and complex features to the project, but unfortunately due to other projects and falling ill with covid for quite some time I lost a lot of time on the project. 
+
+# How to use:
+Uses Unity2021.1.22f1 and should work from the get go after downloading and opening.
+
+The camera can be moved by using the WASD keys in Game mode.
+The camera can be panned by holding middle mouse button and moving the mouse.
+The camera can be zoomed by scrolling the mouse scroll wheel forward or back.
+
 # Models:
 I downloaded models from Thingiverse to use in the project and applied a material to match their col,ours from the game.
 
 Downloaded Models from: https://www.thingiverse.com/greentearice/designs, https://www.thingiverse.com/aelioszero/designs, https://www.thingiverse.com/bac0nbitz/designs, https://www.thingiverse.com/basbr123/designs, https://www.thingiverse.com/akatsukilover/designs, https://www.thingiverse.com/anthalas9/designs 
+
 
 
 # Classes:
