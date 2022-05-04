@@ -42,6 +42,12 @@ I downloaded models from Thingiverse to use in the project and applied a materia
 
 Downloaded Models from: https://www.thingiverse.com/greentearice/designs, https://www.thingiverse.com/aelioszero/designs, https://www.thingiverse.com/bac0nbitz/designs, https://www.thingiverse.com/basbr123/designs, https://www.thingiverse.com/akatsukilover/designs, https://www.thingiverse.com/anthalas9/designs 
 
+UNSC Refit Station, Covenant Assault Carrier and Covenant Carrier
+![Refit,Assault,Carrier](https://user-images.githubusercontent.com/74061055/166666837-9cad689d-f8f5-4599-b56f-968821ca6fbd.PNG)
+UNSC Panama and UNSC Armidale
+![Panama,Armidale](https://user-images.githubusercontent.com/74061055/166666922-59e3660a-bf73-4a71-9ef6-530f2901bf82.PNG)
+Banshee, Pelican and Longsword
+![Banshee,Pelican,Longsword](https://user-images.githubusercontent.com/74061055/166666961-5718af4b-7acf-45b1-b223-bab2f853aa58.PNG)
 
 
 # Classes:
