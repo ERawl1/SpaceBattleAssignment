@@ -19,13 +19,26 @@ A space battle based off of "The Long Night of Solace" from Halo: Reach. I hope 
 - Created initial project file.
 - Imported ship models.
 - Basic movement script.
+- Path following and path manager
+- Ship wander script with adjustable patrol and chase functions
+- RTS Style Camera able to scroll to zoom, move around and pan for different views of the scene
+- Scene set up for atmospshere
+- Added more models to flesh out scene
+- Skybox added
+- Music added to scene
 
-## Storyboard:
-For my video, I want to create a video reminiscent of the cutscenes and gameplay of the referenced mission.
-### Examples:
-| **Picture** | **Idea** |
-| --- | --- |
+# Models:
+I downloaded models from Thingiverse to use in the project and applied a material to match their col,ours from the game.
 
+Downloaded Models from: https://www.thingiverse.com/greentearice/designs, https://www.thingiverse.com/aelioszero/designs, https://www.thingiverse.com/bac0nbitz/designs, https://www.thingiverse.com/basbr123/designs, https://www.thingiverse.com/akatsukilover/designs, https://www.thingiverse.com/anthalas9/designs 
+
+
+# Classes:
+- AIMovement: Adapted from https://www.youtube.com/channel/UCRURfBp5ZjqE3RBeHL4MGew
+- CameraScript: Adapted from https://www.youtube.com/watch?v=pxS14VJ_eXQ
+- LongswordPath: Made with inspiration from https://www.youtube.com/watch?v=EwHiMQ3jdHw&t=1607s, https://www.youtube.com/watch?v=GIDz0DjhA4E
+- UNSCWapoints: Made with inspiration from https://www.youtube.com/watch?v=EwHiMQ3jdHw&t=1607s, https://www.youtube.com/watch?v=GIDz0DjhA4E
+- WaypointManager: Made with inspiration from https://www.youtube.com/watch?v=GIDz0DjhA4E, https://www.youtube.com/watch?v=EwHiMQ3jdHw&t=1607s 
 
 ## References:
 - https://www.thingiverse.com/greentearice/designs
@@ -34,3 +47,5 @@ For my video, I want to create a video reminiscent of the cutscenes and gameplay
 - https://www.thingiverse.com/basbr123/designs
 - https://www.thingiverse.com/akatsukilover/designs
 - https://www.thingiverse.com/anthalas9/designs
+- Music from: https://www.youtube.com/watch?v=kHW9684wmOk&t=67s
+- Skybox from: https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503#description
