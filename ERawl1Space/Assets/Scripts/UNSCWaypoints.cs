@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class UNSCWaypoints : MonoBehaviour
 {
-    [Range(0f, 2f)]
+    
     public float waypointSize = 1f;
 
     private void OnDrawGizmos()
