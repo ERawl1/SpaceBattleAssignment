@@ -322,6 +322,7 @@
 "Assets/Scripts/AIMovement.cs"
 "Assets/Scripts/CameraScript.cs"
 "Assets/Scripts/LongswordPath.cs"
+"Assets/Scripts/SceneChange.cs"
 "Assets/Scripts/UNSCWaypoints.cs"
 "Assets/Scripts/WaypointManager.cs"
 "Assets/SpaceSkies Free/Demo/Scripts/LookCamera.cs"
